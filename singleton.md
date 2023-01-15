@@ -35,7 +35,8 @@ public class Singleton{
     public void operazione(){ /*...*/ }
 
 }
-
+```
+```java
 // Uso del singleton
 public class Main{
     public static void main(String[] args){
@@ -64,7 +65,8 @@ public enum Singleton{
     public void operazione(){ /*...*/ };
 
 }
-
+```
+```java
 // Uso del singleton
 public class Main{
     public static void main(String[] args){
