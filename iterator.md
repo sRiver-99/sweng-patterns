@@ -9,7 +9,7 @@ Generalmente viene utilizzato per presentare gli elementi contenuti in una colle
 ## **Implementazione**
 
 In generale si definisce un iteratore tramite un interfaccia che ha diversi metodi: uno per recuperare il prossimo elemento, uno per sapere se ci sono ancora elementi su cui iterare, ed eventualmente anche uno per rimuovere l'elemento corrente.  
-È poi necesario definire un metodo dalla collezione che restituisca un implementazione dell'iteratore.
+È poi necesario definire un metodo della collezione che restituisca un implementazione dell'iteratore.
 
 Questo pattern in Java viene implementato utilizzando due interfacce:
 
